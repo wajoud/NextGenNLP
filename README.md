@@ -13,7 +13,7 @@ Welcome to **NextGenNLP**—your source for cutting-edge Natural Language Proces
 To get started with NextGenNLP, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/NextGenNLP.git
+git clone https://github.com/wajoud/NextGenNLP.git
 cd NextGenNLP
 pip install -r requirements.txt
 ```
