@@ -20,7 +20,7 @@ cd ChatGardenBot
 # It's recommended to use Python 3.8
 pip3 install -r requirements.txt
 
-python chatbot.py
+python bot.py
 ```
 
 ## Usage
